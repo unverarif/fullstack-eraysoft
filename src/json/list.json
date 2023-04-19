@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Panini Çek Tarayıcı",
+        "to": "/panini"
+    },
+    {
+        "name": "Pasaport ve Kimlik Okuma Çözümleri",
+        "to": "/idscanner"
+    },
+    {
+        "name": "Ziyaretçi Takip Yazılımı",
+        "to": "/panini"
+    }
+]

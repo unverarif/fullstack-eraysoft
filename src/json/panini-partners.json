@@ -1,0 +1,27 @@
+[
+    {
+        "to": "https://www.ford.com.tr",
+        "resim":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ford-Motor-Company-Logo.png/1200px-Ford-Motor-Company-Logo.png"
+    },
+    {
+        "to": "https://www.nike.com/tr/",
+        "resim":"https://pngimg.com/uploads/nike/nike_PNG11.png"
+    },
+    {
+        "to": "https://www.citibank.com.tr",
+        "resim":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Citi.svg/2560px-Citi.svg.png"
+    },
+    {
+        "to": "https://www.isbank.com.tr",
+        "resim":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1_logo.svg/2560px-T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1_logo.svg.png"
+    },
+    {
+        "to": "https://www.volvocars.com/tr/",
+        "resim":"https://www.carlogos.org/logo/Volvo-logo-2014-1920x1080.png"
+    },
+    {
+        "to": "https://www.roche.com.tr",
+        "resim":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Roche_Logo.svg/1200px-Roche_Logo.svg.png"
+    }
+    
+]

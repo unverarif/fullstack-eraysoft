@@ -1,0 +1,33 @@
+[
+    {
+        "baslik": "Dubleks Tarama",
+        "resim": "https://cdn-icons-png.flaticon.com/512/423/423127.png",
+        "text": "Tek geçişte aynı anda çekin hem ön hemde arka görüntüsünü yüksek kalitede kaydeder."
+    },
+    {
+        "baslik": "Karekod Okuma",
+        "resim": "https://cdn-icons-png.flaticon.com/512/9129/9129505.png",
+        "text": "Yeni nesil Panini MyVisionX çek tarayıcı cihazları Eraysoft Çek Otomasyon yazılımı desteği ile çek üzerindeki karekod bilgilerini otomatik olarak okur."
+    },
+    {
+        "baslik": "MICR Best",
+        "resim": "https://cdn-icons-png.flaticon.com/512/8343/8343383.png",
+        "text": "Son teknoloji kullanılarak mükemmel MICR okuma başarısı."
+    },
+    {
+        "baslik": "Alonjlu Çek Tarama",
+        "resim": "https://cdn-icons-png.flaticon.com/512/339/339107.png",
+        "text": "45 cm.’e kadar olan alonjlu çekleri problemsiz olarak tarayıp imajlarını yüksek kalitede kaydeder."
+    },
+    {
+        "baslik": "Upgrade Özelliği",
+        "resim": "https://cdn-icons-png.flaticon.com/128/1030/1030336.png",
+        "text": "Eğer dakikada 50 çek tarama hızına sahip bir MyVisionX çek tarayıcınız var ise cihazı değiştirmeden 100 lük hıza upgrade edebilirsiniz."
+    },
+    {
+        "baslik": "ERP Uyumlu",
+        "resim": "https://cdn-icons-png.flaticon.com/128/169/169780.png",
+        "text": "Türkiye’de kullanılan yerli yabancı tüm ERP sistemleri ile entegre olabilir."
+    }
+    
+]
